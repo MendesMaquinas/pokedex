@@ -3,7 +3,7 @@
     <div class="card">
       <div class="card-image">
         <figure>
-          <img :src="currentImg" alt="Placeholder image" />
+          <img :src="currentImg" alt="Placeholder image"/>
         </figure>
       </div>
       <div class="card-content">
